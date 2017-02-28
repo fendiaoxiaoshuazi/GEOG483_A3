@@ -1,4 +1,4 @@
-var coffeShops = {
+{
   "type": "FeatureCollection",
   "features": [
     {
