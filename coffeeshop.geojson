@@ -4,6 +4,11 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "A title",
+        "description": "A description",
+        "marker-size": "large",
+        "marker-symbol": "bus",
+        "marker-color": "#fff",
         "FID": 0,
         "created_at": "2016-09-26 14:02:18 UTC",
         "created_by": "hyren@uwaterloo.ca",
