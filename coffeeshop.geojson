@@ -6,7 +6,7 @@
       "properties": {
         "Name": "Math Coffee & Donut Shop",
         "Building": "Mathematics and Computer",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -22,7 +22,7 @@
       "properties": {
         "Name": "ES Coffee Shop",
         "Building": "EV 1",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -38,7 +38,7 @@
       "properties": {
         "Name": "William's Fresh Café",
         "Building": "EV3",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -54,7 +54,7 @@
       "properties": {
         "Name": "Common Ground",
         "Building": "Conrad Grebel University College",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -70,7 +70,7 @@
       "properties": {
         "Name": "The Funcken Café",
         "Building": "St. Jerome's",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -86,7 +86,7 @@
       "properties": {
         "Name": "Arts Student Union",
         "Building": "AL",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -102,7 +102,7 @@
       "properties": {
         "Name": "Watson's Eatery",
         "Building": "St. Paul's University",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -118,7 +118,7 @@
       "properties": {
         "Name": "Starbucks",
         "Building": "STC",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -134,7 +134,7 @@
       "properties": {
         "Name": "Watson's Mug",
         "Building": "St. Paul's University",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -150,7 +150,7 @@
       "properties": {
         "Name": "Science C & D",
         "Building": "STC",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -166,7 +166,7 @@
       "properties": {
         "Name": "PAS Lounge",
         "Building": "PAS",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -182,7 +182,7 @@
       "properties": {
         "Name": "St. Jerome's Cafeteria",
         "Building": "St. Jerome's University",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -198,7 +198,7 @@
       "properties": {
         "Name": "Tim Horton's",
         "Building": "South Campus Hall",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -214,7 +214,7 @@
       "properties": {
         "Name": "Graduate House",
         "Building": "Graduate House",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -230,7 +230,7 @@
       "properties": {
         "Name": "Waterloo Engineering Society C&D",
         "Building": "Carl A. Pollock Hall",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -246,7 +246,7 @@
       "properties": {
         "Name": "CEIT cafe",
         "Building": "Centre for Environmental and Information Technology",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -262,7 +262,7 @@
       "properties": {
         "Name": "mudie's",
         "Building": "Village 1",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -278,7 +278,7 @@
       "properties": {
         "Name": "Tim Hortons",
         "Building": "SLC",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -294,7 +294,7 @@
       "properties": {
         "Name": "Second Cup",
         "Building": "Second Cup",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -310,7 +310,7 @@
       "properties": {
         "Name": "Williams Fresh Cafe",
         "Building": "Williams Fresh Cafe",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -326,7 +326,7 @@
       "properties": {
         "Name": "Pastry Plus",
         "Building": "Needles Hall",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -342,7 +342,7 @@
       "properties": {
         "Name": "Browsers Cafe",
         "Building": "Dana Porter Library",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -358,7 +358,7 @@
       "properties": {
         "Name": "Modern Languages Cafeteria",
         "Building": "Modern languages",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -374,7 +374,7 @@
       "properties": {
         "Name": "Pastry Plud",
         "Building": "Needles Hall",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -390,7 +390,7 @@
       "properties": {
         "Name": "Common Ground",
         "Building": "no",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -406,7 +406,7 @@
       "properties": {
         "Name": "common ground",
         "Building": 0,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -422,7 +422,7 @@
       "properties": {
         "Name": "Watson's eatery",
         "Building": 0,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -438,7 +438,7 @@
       "properties": {
         "Name": "Browsers cafe",
         "Building": "DP library",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -454,7 +454,7 @@
       "properties": {
         "Name": "Tim Hortons",
         "Building": "Modern Languages",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -470,7 +470,7 @@
       "properties": {
         "Name": "DC Tim Hortons Express",
         "Building": " ",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -486,7 +486,7 @@
       "properties": {
         "Name": "DC Tim Hortons",
         "Building": " ",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -502,7 +502,7 @@
       "properties": {
         "Name": "Brubakers SLC",
         "Building": " ",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -518,7 +518,7 @@
       "properties": {
         "Name": "Starbucks BMH",
         "Building": " ",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -534,7 +534,7 @@
       "properties": {
         "Name": "REVelation REV",
         "Building": " ",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -550,7 +550,7 @@
       "properties": {
         "Name": "Liquid Assets HH",
         "Building": " ",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -569,7 +569,7 @@
         "Coffee (S)": 0.75,
         "Coffee (M)": 1,
         "Coffee (L)": 1.25,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -588,7 +588,7 @@
         "Coffee (S)": 1,
         "Coffee (M)": 1,
         "Coffee (L)": 1,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -602,12 +602,13 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-size": "medium",
         "Name": "William's Fresh Caf��",
         "Building": "EV3",
         "Coffee (S)": 3.39,
         "Coffee (M)": 3.99,
         "Coffee (L)": 4.49,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -626,7 +627,7 @@
         "Coffee (S)": 1,
         "Coffee (M)": 1,
         "Coffee (L)": 1,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -645,7 +646,7 @@
         "Coffee (S)": 2.4,
         "Coffee (M)": 2.4,
         "Coffee (L)": 2.65,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -664,7 +665,7 @@
         "Coffee (S)": 0.5,
         "Coffee (M)": 0.5,
         "Coffee (L)": 0.5,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -683,7 +684,7 @@
         "Coffee (S)": 1.25,
         "Coffee (M)": 1.25,
         "Coffee (L)": 1.25,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -702,7 +703,7 @@
         "Coffee (S)": 3.95,
         "Coffee (M)": 4.45,
         "Coffee (L)": 4.95,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -721,7 +722,7 @@
         "Coffee (S)": 1.95,
         "Coffee (M)": 1.95,
         "Coffee (L)": 2.95,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -740,7 +741,7 @@
         "Coffee (S)": 0.75,
         "Coffee (M)": 1,
         "Coffee (L)": 1.25,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -759,7 +760,7 @@
         "Coffee (S)": 1.89,
         "Coffee (M)": 2.09,
         "Coffee (L)": 2.29,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -778,7 +779,7 @@
         "Coffee (S)": 1.5,
         "Coffee (M)": 1.8,
         "Coffee (L)": 2,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -797,7 +798,7 @@
         "Coffee (S)": 1.43,
         "Coffee (M)": 1.62,
         "Coffee (L)": 2,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -816,7 +817,7 @@
         "Coffee (S)": 1,
         "Coffee (M)": 1,
         "Coffee (L)": 1,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -835,7 +836,7 @@
         "Coffee (S)": 0.9,
         "Coffee (M)": 1.2,
         "Coffee (L)": 1.5,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -854,7 +855,7 @@
         "Coffee (S)": 1.89,
         "Coffee (M)": 2.09,
         "Coffee (L)": 2.29,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -873,7 +874,7 @@
         "Coffee (S)": 1.89,
         "Coffee (M)": 2.09,
         "Coffee (L)": 2.09,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -892,7 +893,7 @@
         "Coffee (S)": 1.43,
         "Coffee (M)": 1.62,
         "Coffee (L)": 1.81,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -911,7 +912,7 @@
         "Coffee (S)": 1.8,
         "Coffee (M)": 2.15,
         "Coffee (L)": 2.45,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -930,7 +931,7 @@
         "Coffee (S)": 1.6,
         "Coffee (M)": 1.8,
         "Coffee (L)": 2,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -949,7 +950,7 @@
         "Coffee (S)": 1.89,
         "Coffee (M)": 2.09,
         "Coffee (L)": 2.29,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -968,7 +969,7 @@
         "Coffee (S)": 1.89,
         "Coffee (M)": 2.09,
         "Coffee (L)": 2.29,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -987,7 +988,7 @@
         "Coffee (S)": 1.43,
         "Coffee (M)": 1.62,
         "Coffee (L)": 2,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1006,7 +1007,7 @@
         "Coffee (S)": 1.89,
         "Coffee (M)": 2.09,
         "Coffee (L)": 2.29,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1025,7 +1026,7 @@
         "Coffee (S)": 1,
         "Coffee (M)": 1,
         "Coffee (L)": "",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1044,7 +1045,7 @@
         "Coffee (S)": 1,
         "Coffee (M)": 1,
         "Coffee (L)": "",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1063,7 +1064,7 @@
         "Coffee (S)": 1.25,
         "Coffee (M)": 1.25,
         "Coffee (L)": 1.25,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1082,7 +1083,7 @@
         "Coffee (S)": 1.89,
         "Coffee (M)": 2.09,
         "Coffee (L)": 2.29,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1101,7 +1102,7 @@
         "Coffee (S)": 1.43,
         "Coffee (M)": 1.62,
         "Coffee (L)": 1.81,
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1120,7 +1121,7 @@
         "Coffee (S)": "",
         "Coffee (M)": "",
         "Coffee (L)": "",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1139,7 +1140,7 @@
         "Coffee (S)": "",
         "Coffee (M)": "",
         "Coffee (L)": "",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1158,7 +1159,7 @@
         "Coffee (S)": "",
         "Coffee (M)": "",
         "Coffee (L)": "",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1172,7 +1173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe",
         "Name": "Starbucks BMH",
         "Building": "BMH",
@@ -1196,7 +1197,7 @@
         "Coffee (S)": "",
         "Coffee (M)": "",
         "Coffee (L)": "",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
@@ -1215,7 +1216,7 @@
         "Coffee (S)": "",
         "Coffee (M)": "",
         "Coffee (L)": "",
-        "marker-color": "#ffffff",
+        "marker-color": "#c0c0c0",
         "marker-symbol": "cafe"
       },
       "geometry": {
